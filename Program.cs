@@ -5,7 +5,7 @@
 		static void Main(string[] args)
 		{
 			bike bicycle = new bike(2, "Yeah", "32") { Wheeltype = "Yeah!", Handles = "Tru" };
-			
+			//Test change
 			Console.WriteLine("start! \n" + bicycle + "\n end");
 		}//main
 	}//class
